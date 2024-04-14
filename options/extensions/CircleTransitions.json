@@ -1,0 +1,9 @@
+{
+  "extensionId": {
+    "name": "CircleTransitions",
+    "path": "extensions/CircleTransitions/CircleTransitions.yy"
+  },
+  "resourceVersion": "1.0",
+  "resourceType": "GMExtensionConfigSet",
+  "configurables": null
+}

@@ -1,0 +1,1 @@
+scr_draw_sprite_stacked()

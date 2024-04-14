@@ -1,0 +1,1 @@
+luckyhit = true; //Lucky Hit

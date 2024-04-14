@@ -1,0 +1,1 @@
+font_delete(global.extra_font)

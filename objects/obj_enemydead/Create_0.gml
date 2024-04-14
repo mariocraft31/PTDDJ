@@ -1,0 +1,14 @@
+vsp = random_range(-10, -18);
+hsp = sign(x) * random_range(10, 18);
+grav = 0.4;
+angle = 0;
+//spinspeed = choose(0, 0, 0, 10, 20);
+alarm[0] = 5;
+buffer = 10;
+if x != par_battleplayer.x
+	image_xscale = -sign(x - par_battleplayer.x);
+depth = -999;
+usepalette = false;
+paletteselect = 0;
+spr_palette = 0;
+d = 255;

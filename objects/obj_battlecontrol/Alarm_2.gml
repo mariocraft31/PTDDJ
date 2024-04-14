@@ -1,0 +1,1 @@
+instance_create(x-12,y-64,obj_totaldamage);
